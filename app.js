@@ -1,1 +1,1 @@
-console.log("App is running on production branch");
+console.log("App is running on main branch");
