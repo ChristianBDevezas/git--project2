@@ -1,1 +1,1 @@
-console.log("Hello from production");
+console.log("Hello from main");
